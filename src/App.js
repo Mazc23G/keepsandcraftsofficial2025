@@ -13,6 +13,7 @@ function App() {
         <Route path="/" element={<LandingHere />} />
         <Route path="/our-services" element={<OurService />} />
         <Route path="/contact-us" element={<ContactUs />} />
+        <Route path="*" element={<LandingHere />} /> {/* fallback */}
       </Routes>
     </>
   );

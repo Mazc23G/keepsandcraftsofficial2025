@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/keepsandcraftsofficial2025/static/css/main.2a800527.css",
+    "main.js": "/keepsandcraftsofficial2025/static/js/main.9b45f386.js",
+    "static/media/Front.png": "/keepsandcraftsofficial2025/static/media/Front.2ce41e5b22935a143d5c.png",
+    "static/media/product5.jpg": "/keepsandcraftsofficial2025/static/media/product5.231c1431ea0739bf00b7.jpg",
+    "static/media/product4.jpg": "/keepsandcraftsofficial2025/static/media/product4.3599b56528509626b74f.jpg",
+    "static/media/product1.jpg": "/keepsandcraftsofficial2025/static/media/product1.e328ff6e6ea3ea6beb6b.jpg",
+    "static/media/product3.jpg": "/keepsandcraftsofficial2025/static/media/product3.4ca4d2cfab5e6cef4777.jpg",
+    "static/media/product2.jpg": "/keepsandcraftsofficial2025/static/media/product2.012c4e0d53d7fe6ecbf2.jpg",
+    "index.html": "/keepsandcraftsofficial2025/index.html",
+    "main.2a800527.css.map": "/keepsandcraftsofficial2025/static/css/main.2a800527.css.map",
+    "main.9b45f386.js.map": "/keepsandcraftsofficial2025/static/js/main.9b45f386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a800527.css",
+    "static/js/main.9b45f386.js"
+  ]
+}

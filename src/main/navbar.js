@@ -59,7 +59,7 @@ const Navbar = () => {
             color: "white",
           }}
         >
-          <HandymanIcon sx={{ fontSize: 28 }} /> Keeps & Crafts
+          <HandymanIcon sx={{ fontSize: 28 }} /> Keeps & Crafts Official 2025
         </Typography>
 
         {/* Desktop Menu */}
